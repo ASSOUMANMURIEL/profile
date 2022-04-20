@@ -1,0 +1,9 @@
+.box
+{
+padding 10px;
+background:#EEE;
+border:1px solid #CCC;
+width:200px;
+height:200px;
+box-shadow: 10px 5px 5px red;
+}
